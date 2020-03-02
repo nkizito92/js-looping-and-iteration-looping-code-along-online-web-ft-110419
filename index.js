@@ -6,5 +6,3 @@ function writeCards(arry, bird) {
   }
   return array;
 }
-
-writeCards(["Ada", "Brendan", "Ali"], "birthday");
