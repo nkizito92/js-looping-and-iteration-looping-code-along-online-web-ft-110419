@@ -1,6 +1,6 @@
 
 function writeCards(arry, bird) {
-  let array = []
+  const  array = []
   for (let i = 0; i < arry.length; i++) {
   array.push(console.log(`Thank you, ${arry[i]} for the wonderful ${bird} gift!`))
   }
