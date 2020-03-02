@@ -7,4 +7,4 @@ function writeCards(arry, bird) {
   return array
 }
 
-writeCards(["Lisa", "Kaitlin", "Jan"], "surprise");
+writeCards(["Ada", "Brendan", "Ali"], "birthday");
